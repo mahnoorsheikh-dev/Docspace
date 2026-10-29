@@ -1,0 +1,11 @@
+
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+server/docspace.db
+server/docspace.db-shm
+server/docspace.db-wal
+
+coverage/
